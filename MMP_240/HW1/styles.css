@@ -1,0 +1,27 @@
+body {
+    background: url(sand.jpg) no-repeat center center fixed;
+
+background-size: cover;
+margin-top: 20%
+font-size: 50px;
+    font-family: verdana;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 20%;
+}
+
+p {
+    font-family: verdana;
+    font-size: 200px;
+    text-align: center;
+    color: white;
+}
