@@ -1,0 +1,56 @@
+header{
+    font-family: 'Caveat', cursive;
+}
+
+body{
+    background-color:#e3c693;
+    color: #6c5949;
+}
+body{
+    width: auto;
+    margin: 0;
+    padding: 0;
+}
+
+h3{
+    font-family: 'Slabo 27', cursive;
+        float: right;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+        float:left;
+}
+
+a:link {
+    color: #e9a18f;
+}
+
+a:visited{
+    color:#9d7051;
+}
+
+.wrap{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1em;
+}
+ 
+#primary{
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+p{
+    text-align: center;
+}
